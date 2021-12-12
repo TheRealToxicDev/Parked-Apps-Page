@@ -5,6 +5,13 @@ Simple site used as a Parked Page for my Top Level Domains that are no longer in
 
 ## Technologies
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.JS-0C0032?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Next.JS-0C0032?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Typescript-0C0032?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-0C0032?style=for-the-badge&logo=react" />
+ </p>
+
 ---
 
 ## Credits
