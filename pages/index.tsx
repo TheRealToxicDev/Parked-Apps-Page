@@ -6,24 +6,24 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>TDCS - Parked</title>
+        <title style="color: white;">Parked Domain!</title>
       </Head>
 
       <Main>
-        <Title>
-          <P>🅿️</P>arked at TDCS
+        <Title style="color: white;">
+          Woah, That's not right!
         </Title>
-        <Description>
+        <Description style="color: white;">
           Whatever was here has been moved or no longer exists.
         </Description>
-        <Description>
+        <Description style="color: white;">
           This probably means I'm working on something new that will be hosted here
         </Description>
       </Main>
 
       <Footer>
         <FooterText>
-          Toxic Development Cloud Services -{" "}
+           -{" "}
           <Website href="https://toxicdev.me">toxicdev.me</Website> -{" "}
           <Twitter href="https://twitter.com/TheRealToxicDev">
             @TheRealToxicDev
