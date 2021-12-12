@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title style="color: white;">Parked Domain!</title>
+        <title>Parked Domain!</title>
       </Head>
 
       <Main>
