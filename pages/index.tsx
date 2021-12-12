@@ -10,20 +10,20 @@ export default function Home() {
       </Head>
 
       <Main>
-        <Title style="color: white;">
+        <Title>
           Woah, That's not right!
         </Title>
-        <Description style="color: white;">
+        <Description>
           Whatever was here has been moved or no longer exists.
         </Description>
-        <Description style="color: white;">
+        <Description>
           This probably means I'm working on something new that will be hosted here
         </Description>
       </Main>
 
       <Footer>
         <FooterText>
-           -{" "}
+         © 2021 - 2022 Toxic Dev  -{" "}
           <Website href="https://toxicdev.me">toxicdev.me</Website> -{" "}
           <Twitter href="https://twitter.com/TheRealToxicDev">
             @TheRealToxicDev
@@ -56,6 +56,7 @@ const Footer = styled.div`
   width: 100%;
   height: 50px;
   display: flex;
+  background-color: black;
   justify-content: center;
   align-items: center;
 `;
@@ -65,6 +66,7 @@ const Title = styled.h1`
   line-height: 1.15;
   font-size: 4rem;
   text-align: center;
+  color: white;
 `;
 
 const P = styled.span`
@@ -77,9 +79,12 @@ const Description = styled.p`
   font-size: 1.5rem;
   margin: 0;
   margin-top: 20px;
+  color: white
 `;
 
-const FooterText = styled.p``;
+const FooterText = styled.p`
+  color: white;
+`;
 
 const Twitter = styled.a`
   text-decoration: none;
