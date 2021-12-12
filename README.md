@@ -26,3 +26,14 @@ Simple site used as a Parked Page for my Top Level Domains that are no longer in
 
 ## Samples
 ![Sample](https://media.discordapp.net/attachments/653733403841134600/919462941374418974/IMG_1699.png)
+
+---
+
+## Self Hosting
+I will not babysit you and help you set up your own copy step for step but trust me it's not rocket science
+
+1. Clone or Fork this Repo
+2. `yarn install`
+3. `yarn build`
+
+**Output Directory:** `out`
