@@ -21,3 +21,8 @@ Simple site used as a Parked Page for my Top Level Domains that are no longer in
 
 ## Hosted on NETLIFY
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d5312f8f-5b67-40ef-8bee-7efed2047148/deploy-status)](https://app.netlify.com/sites/friendly-hopper-9a6e8f/deploys)
+
+---
+
+## Samples
+![Sample](https://media.discordapp.net/attachments/653733403841134600/919462941374418974/IMG_1699.png)
