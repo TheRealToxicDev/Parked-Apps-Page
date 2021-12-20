@@ -19,6 +19,7 @@ export default function Home() {
         <Description>
           1. The owner of this site has no protection against exploits and this access has been abused. The owner will be notified with tips on how to prevent this
         </Description>
+        <br />
         <Description>
           2. You are snooping and trying to find something that simply doesn't exist here NOOB! Go find something productive to do with your day ❤️
         </Description>
