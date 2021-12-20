@@ -11,23 +11,22 @@ export default function Home() {
 
       <Main>
         <Title>
-          Woah, That's not right!
+          👋 Hey there
         </Title>
         <Description>
-          Whatever was here has been moved or no longer exists.
+          If you have been redirected to this site could mean a couple of things.
         </Description>
         <Description>
-          This probably means I'm working on something new that will be hosted here
+          1. The owner of this site has no protection against exploits and this access has been abused. The owner will be notified with tips on how to prevent this
+        </Description>
+        <Description>
+          2. You are snooping and trying to find something that simply doesn't exist here NOOB! Go find something productive to do with your day ❤️
         </Description>
       </Main>
 
       <Footer>
         <FooterText>
          © 2021 - 2022 Toxic Dev  -{" "}
-          <Website href="https://toxicdev.me">toxicdev.me</Website> -{" "}
-          <Twitter href="https://twitter.com/TheRealToxicDev">
-            @TheRealToxicDev
-          </Twitter>
         </FooterText>
       </Footer>
     </Container>
