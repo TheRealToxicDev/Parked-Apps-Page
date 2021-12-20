@@ -17,7 +17,7 @@ export default function Home() {
           If you have been redirected to this site could mean a couple of things.
         </Description>
         <Description>
-          1. The owner of this site has no protection against exploits and this access has been abused. The owner will be notified with tips on how to prevent this
+          1. The owner of this site has no protection against exploits and I have found a way to abuse that vulnerability. The owner will be notified with tips on how to prevent this in the future
         </Description>
         <br />
         <Description>
